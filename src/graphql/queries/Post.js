@@ -7,6 +7,7 @@ const {
 	GraphQLNonNull,
 } = GraphQL;
 
+
 const PostType = require('../types/Post');
 const PostResolver = require('../resolvers/Post');
 
