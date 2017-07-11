@@ -19,7 +19,6 @@ module.exports = {
         subreddit: {
           type: GraphQLString,
           description: 'Please enter subreddit name',
-          test: 'xtd',
         }
       },
       resolve(parent, args, context, info) {
