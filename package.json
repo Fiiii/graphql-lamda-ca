@@ -1,0 +1,15 @@
+{
+  "name": "lambda_graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Fiiii/graphql-lamda-ca.git",
+  "author": "Artur Figiel <arturffigiel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-graphql": "^0.6.6",
+    "graphql": "^0.10.3"
+  }
+}
