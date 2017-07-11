@@ -19,6 +19,7 @@ module.exports = {
         subreddit: {
           type: GraphQLString,
           description: 'Please enter subreddit name',
+
         }
       },
       resolve(parent, args, context, info) {
